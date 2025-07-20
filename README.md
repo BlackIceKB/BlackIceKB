@@ -6,8 +6,11 @@
   
 - 💞️ I'm not looking to collaborate, but if you have an offer, feel free to reach out!
   
-- 📫 **How to reach**
-  message me here or on my Discord community: https://discord.gg/TWGfSyUa3t
+- 📫 **Socials**
+  Discord community: https://discord.gg/TWGfSyUa3t
+  Ko-Fi for tips/donations or commissions: https://ko-fi.com/realblackice
+  Steam profile: https://steamcommunity.com/id/370001/
+  
 
 <!---
 BlackIceKB/BlackIceKB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
