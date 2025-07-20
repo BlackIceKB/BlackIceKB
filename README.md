@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @BlackIceKB
-- 
-- 👀 I’m interested in level design for the Source Engine and general gaming.
-- 
-- 🌱 I’m currently learning old techniques for Source Engine to create my levels.
-- 
-- 💞️ I’m looking to collaborate on nothing right now, but watch this space.
-- 
-- 📫 How to reach me message me here!
+- 👋 Hi, I’m Black-Ice. I have been playing games since I was 4 in 1998, a mega Half-life nerd, and overall chill individual.
+  
+- 👀 You'll find I am a generic, casual gamer not strictly tied to any specific genre - though my most common are FPS!
+  
+- 🌱 I’m currently mapping for the source engine, specifically Garrys Mod. I have been doing this since around 2009/2010, but only publishing since around 2015.
+  
+- 💞️ I'm not looking to collaborate, but if you have an offer, feel free to reach out!
+  
+- 📫 **How to reach**
+  message me here or on my Discord community: https://discord.gg/TWGfSyUa3t
 
 <!---
 BlackIceKB/BlackIceKB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
